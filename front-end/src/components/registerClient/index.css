@@ -1,0 +1,31 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 85%;
+    max-width: 450px;
+    background: gray;
+    border-radius: 8px;
+    padding: 10px;
+    border: 1px solid;
+}
+
+.section-close{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}.inputForm{
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid gray;
+    padding:12px;
+}
+
+.label{
+    display: flex;
+    gap:5px;
+}
